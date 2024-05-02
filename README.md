@@ -1,38 +1,35 @@
-# create-svelte
+# SvelteKit Boilerplate
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+This is a boilerplate project for SvelteKit (Svelte 5). It provides a starting point for building web applications using the Svelte framework.
 
-## Creating a project
+## Dependencies
 
-If you're seeing this, you've probably already done this step. Congrats!
+The following dependencies are included in this boilerplate:
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+- SvelteKit: A powerful framework for building web applications with Svelte.
+- Svelte: The underlying framework that powers SvelteKit.
+- Tailwind CSS: A utility-first CSS framework for rapidly building custom user interfaces.
+- Prettier Tailwind: A utility that sort you tailwind class
+- clsx: A utility for constructing className strings conditionally.
+- dotenv: A zero-dependency module that loads environment variables from a .env file into process.env.
+- lucide-svelte: A collection of open-source icons for Svelte applications.
+- tailwind-merge: A utility for merging Tailwind CSS classes.
+- tailwind-variants: A utility for creating custom variants for Tailwind CSS.
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+## Getting Started
 
-## Developing
+To get started with this boilerplate, follow these steps:
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+1. Clone the repository: `git clone https://github.com/SxYxuse/svelte-5-kit-boilerplate`
+2. Install the dependencies: `pnpm install`
+3. Start the development server: `pnpm run dev`
 
-```bash
-npm run dev
+You can now start building your SvelteKit application based on this boilerplate.
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+## Contributing
 
-## Building
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
-To create a production version of your app:
+## License
 
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+This project is licensed under the [MIT License](LICENSE).
