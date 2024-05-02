@@ -33,3 +33,7 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Future Updates
+
+Please note that this boilerplate project will continue to evolve over time. Make sure to check for updates regularly to take advantage of new features and improvements.
