@@ -9,7 +9,7 @@ The following dependencies are included in this boilerplate:
 - SvelteKit: A powerful framework for building web applications with Svelte.
 - Svelte: The underlying framework that powers SvelteKit.
 - Tailwind CSS: A utility-first CSS framework for rapidly building custom user interfaces.
-- Prettier Tailwind: A utility that sort you tailwind class
+- Prettier Tailwind: A utility that sort you tailwind class.
 - clsx: A utility for constructing className strings conditionally.
 - dotenv: A zero-dependency module that loads environment variables from a .env file into process.env.
 - lucide-svelte: A collection of open-source icons for Svelte applications.
