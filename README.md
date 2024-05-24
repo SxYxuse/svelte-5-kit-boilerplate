@@ -2,7 +2,7 @@
 
 This is a boilerplate project for SvelteKit (Svelte 5). It provides a starting point for building web applications using the Svelte framework.
 
-/!\ INPORTANT : You should check if any upgrade is available in dependencies
+/!\ IMPORTANT : You should check if any upgrade is available in dependencies
 
 ## Dependencies
 
